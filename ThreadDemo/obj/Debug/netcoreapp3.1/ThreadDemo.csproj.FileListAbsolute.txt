@@ -1,0 +1,13 @@
+D:\桌面\ThreadDemo\ThreadDemo\bin\Debug\netcoreapp3.1\ThreadDemo.exe
+D:\桌面\ThreadDemo\ThreadDemo\bin\Debug\netcoreapp3.1\ThreadDemo.deps.json
+D:\桌面\ThreadDemo\ThreadDemo\bin\Debug\netcoreapp3.1\ThreadDemo.runtimeconfig.json
+D:\桌面\ThreadDemo\ThreadDemo\bin\Debug\netcoreapp3.1\ThreadDemo.runtimeconfig.dev.json
+D:\桌面\ThreadDemo\ThreadDemo\bin\Debug\netcoreapp3.1\ThreadDemo.dll
+D:\桌面\ThreadDemo\ThreadDemo\bin\Debug\netcoreapp3.1\ThreadDemo.pdb
+D:\桌面\ThreadDemo\ThreadDemo\obj\Debug\netcoreapp3.1\ThreadDemo.csprojAssemblyReference.cache
+D:\桌面\ThreadDemo\ThreadDemo\obj\Debug\netcoreapp3.1\ThreadDemo.AssemblyInfoInputs.cache
+D:\桌面\ThreadDemo\ThreadDemo\obj\Debug\netcoreapp3.1\ThreadDemo.AssemblyInfo.cs
+D:\桌面\ThreadDemo\ThreadDemo\obj\Debug\netcoreapp3.1\ThreadDemo.csproj.CoreCompileInputs.cache
+D:\桌面\ThreadDemo\ThreadDemo\obj\Debug\netcoreapp3.1\ThreadDemo.dll
+D:\桌面\ThreadDemo\ThreadDemo\obj\Debug\netcoreapp3.1\ThreadDemo.pdb
+D:\桌面\ThreadDemo\ThreadDemo\obj\Debug\netcoreapp3.1\ThreadDemo.genruntimeconfig.cache
