@@ -1,0 +1,16 @@
+D:\桌面\ThreadDemo\ThreadDemo\bin\Debug\net5.0\ThreadDemo.exe
+D:\桌面\ThreadDemo\ThreadDemo\bin\Debug\net5.0\ThreadDemo.deps.json
+D:\桌面\ThreadDemo\ThreadDemo\bin\Debug\net5.0\ThreadDemo.runtimeconfig.json
+D:\桌面\ThreadDemo\ThreadDemo\bin\Debug\net5.0\ThreadDemo.runtimeconfig.dev.json
+D:\桌面\ThreadDemo\ThreadDemo\bin\Debug\net5.0\ThreadDemo.dll
+D:\桌面\ThreadDemo\ThreadDemo\bin\Debug\net5.0\ref\ThreadDemo.dll
+D:\桌面\ThreadDemo\ThreadDemo\bin\Debug\net5.0\ThreadDemo.pdb
+D:\桌面\ThreadDemo\ThreadDemo\obj\Debug\net5.0\ThreadDemo.csprojAssemblyReference.cache
+D:\桌面\ThreadDemo\ThreadDemo\obj\Debug\net5.0\ThreadDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\桌面\ThreadDemo\ThreadDemo\obj\Debug\net5.0\ThreadDemo.AssemblyInfoInputs.cache
+D:\桌面\ThreadDemo\ThreadDemo\obj\Debug\net5.0\ThreadDemo.AssemblyInfo.cs
+D:\桌面\ThreadDemo\ThreadDemo\obj\Debug\net5.0\ThreadDemo.csproj.CoreCompileInputs.cache
+D:\桌面\ThreadDemo\ThreadDemo\obj\Debug\net5.0\ThreadDemo.dll
+D:\桌面\ThreadDemo\ThreadDemo\obj\Debug\net5.0\ref\ThreadDemo.dll
+D:\桌面\ThreadDemo\ThreadDemo\obj\Debug\net5.0\ThreadDemo.pdb
+D:\桌面\ThreadDemo\ThreadDemo\obj\Debug\net5.0\ThreadDemo.genruntimeconfig.cache
